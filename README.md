@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=200&duration=1500&lines=Hi!+I'm+Gizem+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="gizem-izmir-gif.gif"/>
+</p>
+
 
 <!--
 **gizemizmir/gizemizmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
